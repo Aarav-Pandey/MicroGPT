@@ -19,7 +19,10 @@ This repository contains the implementation of a **local Retrieval-Augmented Gen
 
 ## Requirements
 
-The project requires Python 3.10+ and the following dependencies:
+This project requires 
+1) meta-llama/Llama-3.2-3B-Instruct as the base model
+2) ServiceNow-AI/R1-Distill-SFT for model training, and
+3) Python 3.10+ and the following dependencies:
 
 ```bash
 pip install -r requirements.txt
