@@ -1,0 +1,19 @@
+# Core AI and LLM Frameworks
+langchain==0.3.0
+langchain-community==0.3.0
+ollama
+
+# Vector Database and Embeddings
+faiss-cpu
+sentence-transformers
+huggingface-hub
+
+# Hardware and Optimization
+torch
+numpy
+
+# Document Processing (For the RAG Tool)
+pypdf
+langchain-text-splitters
+
+# pip install -r requirements.txt
